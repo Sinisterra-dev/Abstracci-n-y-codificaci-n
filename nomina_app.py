@@ -1,6 +1,6 @@
 """
 Aplicación de Gestión de Nómina - Constructora Mejor
-Autor: Hernando Arbey Robles Puentes
+Autor: Alkexander Sinisterra
 Curso: Abstracción y Codificación
 """
 
@@ -260,7 +260,7 @@ class VentanaLogin(tk.Tk):
                  font=("Arial", 16, "bold"), bg="#2c3e50", fg="#ecf0f1").pack(pady=(24, 4))
         tk.Label(self, text="Sistema de Gestión de Nómina",
                  font=("Arial", 12), bg="#2c3e50", fg="#bdc3c7").pack()
-        tk.Label(self, text="Autor: Hernando Arbey Robles Puentes",
+        tk.Label(self, text="Autor: Alkexander Sinisterra",
                  font=("Arial", 10, "italic"), bg="#2c3e50", fg="#95a5a6").pack(pady=(4, 20))
 
         card = tk.Frame(self, bg="#ecf0f1", padx=30, pady=20,
