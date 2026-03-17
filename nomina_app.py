@@ -1,6 +1,6 @@
 """
 Aplicación de Gestión de Nómina - Constructora Mejor
-Autor: Alkexander Sinisterra
+Autor: Alexander Sinisterra
 Curso: Abstracción y Codificación
 """
 

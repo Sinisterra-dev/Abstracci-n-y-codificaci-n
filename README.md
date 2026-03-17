@@ -2,7 +2,7 @@
 
 ## Sistema de Gestión de Nómina – Constructora Mejor
 
-**Autor:** Alkexander Sinisterra  
+**Autor:** Alexander Sinisterra  
 **Lenguaje:** Python 3 con Tkinter (interfaz gráfica)
 
 ---
